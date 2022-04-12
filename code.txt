@@ -1,0 +1,8 @@
+I am wring to check how to create account
+first open browser
+signup
+enter your information
+add the person details 
+press enter
+now you are able to see your name on account
+close the browser.
