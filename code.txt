@@ -6,3 +6,4 @@ add the person details
 press enter
 now you are able to see your name on account
 close the browser.
+off the laptop
