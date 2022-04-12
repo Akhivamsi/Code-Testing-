@@ -1,3 +1,6 @@
+Coding based on Python 
+
+
 I am wring to check how to create account
 first open browser
 signup
@@ -8,3 +11,5 @@ now you are able to see your name on account
 close the browser.
 off the laptop
 go back to your places
+
+there are many types of coding we can learn
