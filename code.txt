@@ -1,6 +1,7 @@
 I am wring to check how to create account
 first open browser
-signup
+signup in google accout
+or try to use apple account details
 enter your information
 add the person details 
 press enter
