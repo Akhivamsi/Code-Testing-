@@ -4,6 +4,7 @@ Coding based on Python
 I am wring to check how to create account
 first open browser
 signup
+signin
 enter your information
 add the person details 
 press enter
